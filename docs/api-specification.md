@@ -10,6 +10,8 @@ Body:
 "username": "string",
 "password": "string"
 }
+```
+
 Response:
 ```json
 {
